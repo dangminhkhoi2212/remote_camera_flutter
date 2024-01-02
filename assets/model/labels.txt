@@ -1,0 +1,3 @@
+0 photograph
+1 zoomIn
+2 zoomOut
